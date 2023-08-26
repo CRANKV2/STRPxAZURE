@@ -1,4 +1,7 @@
-# AZURE Magisk Module
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="" width="500"></a></p>  
+
+<h1 align="center"><b> AZURE Magisk Module
+ </b></h1> 
 
 ### Termux Command to Open CLI Menu: 
 - To access the command-line menu, use: `su -c AZURE`
