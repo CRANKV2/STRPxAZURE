@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="" width="500"></a></p>  
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/zpYmCSi.jpg" width="500"></a></p>  
 
 <h1 align="center"><b> AZURE Magisk Module
  </b></h1> 
